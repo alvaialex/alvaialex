@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alvaialex
 - 👀 I’m interested in eCommerce development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning knockout JS
+- 💞️ I’m looking to collaborate on magento website development
 - 📫 How to reach me +91 9952600167
 
 <!---
